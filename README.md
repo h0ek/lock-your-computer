@@ -10,4 +10,4 @@ Quick way to send funny email and change wallpaper in one place.
 Edit unlockedpc.ps1 and change values of $Mail.To, $Mail.Subject, $Mail.Body to whatever you want. Save it.
 Copy security_was_here.bmp, start.cmd and unlockedpc.ps1 files to USB drive. Go to the victim PC. Plug the USB drive and double click on start.cmd.
 
-Done, email is sent and wallpaper is changed.
+Done, email is sent and wallpaper is changed. Unplug USB and run laughing like a madman. (This is funny only for IT people.)
